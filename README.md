@@ -27,4 +27,4 @@ Utilizing Pandas, CityPy, Numpy, and Python APIs, the following analytical deliv
   - Figure shows the route between four cities chosen from the customer's possible destinations
   - Create a marker layer map with pop-up markers for each city on itinerary
   
-![Deliverable_3](Vacation_itinerary/Vacation_travel_map_markers.png)
+![Deliverable_3](Vacation_Itinerary/Vacation_travel_map_markers.png)
