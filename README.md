@@ -13,7 +13,8 @@ Utilizing Pandas, CityPy, Numpy, and Python APIs, the following analytical deliv
  - Retrieve the current weather descritpion for each city.
  - Create a new DataFrame containing the updated weather data.
 
-![Deliverable_1](Deliverable_1.png)
+![Deliverable_2](Vacation_search/Vacation_Destination_Map.png)
+
 
 - Deliverable 2: Create a Custom Travel Destinations Map
  - Create input statements to retrieve customer weather preferences
@@ -22,11 +23,11 @@ Utilizing Pandas, CityPy, Numpy, and Python APIs, the following analytical deliv
   - nearby hotels
  - Show destinations on a marker layer map with pop-up markers
 
-![Deliverable_2](Vacation_search/WeatherPy_vacation._map.png)
+![Deliverable_2](Vacation_search/Vacation_Destination_Markers.png)
 
 - Deliverable 3: Create a Travel Itinerary Map
  - Use Google Directions API to create travel itinerary
   - Figure shows the route between four cities chosen from the customer's possible destinations
   - Create a marker layer map with pop-up markers for each city on itinerary
   
-![Deliverable_3](Vacation_itinerary/WeatherPy_travel_map_markers.png)
+![Deliverable_3](Vacation_Itinerary/Vacation_travel_map_markers.png)
