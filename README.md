@@ -13,6 +13,9 @@ Utilizing Pandas, CityPy, Numpy, and Python APIs, the following analytical deliv
  - Retrieve the current weather descritpion for each city.
  - Create a new DataFrame containing the updated weather data.
 
+![Deliverable_2](Vacation_search/Vacation_Destination_Map.png)
+
+
 - Deliverable 2: Create a Custom Travel Destinations Map
  - Create input statements to retrieve customer weather preferences
  - Utilize specified preferences to identify:
